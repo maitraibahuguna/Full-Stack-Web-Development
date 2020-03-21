@@ -9,7 +9,7 @@ include('config.php');
     </head>
     
     <body>
-    <form  name ="form" action="details.php" method="post">
+    <form  name ="form" action="addrecord.php" method="post">
       ID: <input type="text" name="id" placeholder="enter id"><br>
       Name: <input type="text" name="username"><br>
       Age:<input type="text" name="age" placeholder="Enter Age"><br>

@@ -5,7 +5,7 @@ $password = '';
 $databaseName = 'cseb';
 $conn= mysqli_connect($hostName,$userName,$password,$databaseName);
 if($conn){
-    echo "CONNECTION SUCESSFUL";
+    
 }   
 else
 {
